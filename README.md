@@ -16,12 +16,14 @@ Scrum is a lightweight framework that helps people, teams and organizations gene
 
 ### 🙂 About the authors
 
-Cadlec AKPAMOLI
-Enthusiast software developer!
-Software Engineer and Co-Founder of @scirylab
+Cadlec AKPAMOLI <br/>
+Enthusiast software developer! <br/>
+Software Engineer and Co-Founder of @scirylab <br/>
 👨‍💻 [follow me for more](https://twitter.com/cadlec_akpamoli)
 
-Théophas OGOUGNON
-Software Engineer and Co-Founder of @scirylab.
-PHP, Laravel and Python enthusiast
+
+
+Théophas OGOUGNON<br/>
+Software Engineer and Co-Founder of @scirylab. <br/>
+PHP, Laravel and Python enthusiast<br/>
 👨‍💻 [follow me for more](https://twitter.com/theophasbie)
