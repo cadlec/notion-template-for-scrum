@@ -27,7 +27,7 @@ Software Engineer and Co-Founder of @scirylab <br/>
 
 
 
-Théophas OGOUGNON<br/>
+Théophas Bienvenu<br/>
 Software Engineer and Co-Founder of @scirylab. <br/>
 PHP, Laravel and Python enthusiast<br/>
 👨‍💻 [follow me for more](https://twitter.com/theophasbie)
